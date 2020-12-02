@@ -6,15 +6,12 @@ Based on your guess computer will give various hints if the number is high or lo
 
 This is how the game looks in action:
 
-```Hello Rudra Guess a number  between 1 to 10: 
-5
+```Hello Rudra Guess a number  between 1 to 10:
+2
 guess is low
-5
+4
 guess is low
-5
+6
 guess is low
-5
-guess is low
-5
-guess is low
-You failed. The number was 10```
+8
+You guessed the number in 4 tries```
