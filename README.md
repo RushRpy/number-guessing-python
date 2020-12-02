@@ -14,6 +14,6 @@ guess is low
 6
 guess is low
 8
-You guessed the number in 4 tries
+You guessed the number in 4 tries```
 
 Step by Step Explanation on [RushR](https://www.youtube.com/watch?v=PUqijAGbVeM)
