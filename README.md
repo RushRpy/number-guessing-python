@@ -14,4 +14,4 @@ guess is low
 6
 guess is low
 8
-You guessed the number in 4 tries```
+You guessed the number in 4 tries
